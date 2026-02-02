@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Aleksander👋
 
-<!--
-**aleksanew/aleksanew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Artificial Intelligence at the University of Agder
+Norway
+Interested in applied AI, ocean science, and real-world problem solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+I am a student in artificial intelligence with a strong interest in applying data-driven methods to real-world systems.
+My background includes programming, statistics, and mathematical modeling, and I enjoy working on practical problems.
+
+---
+
+## Skills & tools
+- Python
+- Numpy / SciPy
+- C & C++
+- Data analysis & visualization
+- Basic Machine learning
+- Basic Software engineering & architecture
+- UML
+- Statistics and modeling
+
+---
+
+## Selected projects
+
+(Currently focusing on coursework and building a strong foundation.)
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/aleksander-w%C3%A5gen-100648288/
+- E-mail: aleksander.wagen@gmail.com
