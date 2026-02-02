@@ -32,4 +32,4 @@ My background includes programming, statistics, and mathematical modeling, and I
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/aleksander-w%C3%A5gen-100648288/
-- E-mail: aleksander.wagen@gmail.com
+- E-mail: aleksander.wagen@gmail.com aleksanew@uia.no
